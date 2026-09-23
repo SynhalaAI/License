@@ -29,22 +29,22 @@ The full license text is available here: **[SSRL.md](SSRL.md)**
 
 Compare the licenses published in this hub. Features are listed vertically - each license is a column. More SynhalaAI licenses are **coming soon** and will be added here as they are published.
 
-| Feature | **SSRL v1.0** :shield: | *Coming Soon* |
+| Feature | **SSRL v1.0** 🛡️ | *Coming Soon* |
 |---------|:---------------------:|:------------:|
-| Non-commercial research use | :white_check_mark: |  :hourglass_flowing_sand: |
-| Modification & Derivative Works | :white_check_mark: |  :hourglass_flowing_sand: |
-| Distribution to Eligible Licensees | :white_check_mark: |  :hourglass_flowing_sand: |
-| Private use (within Sri Lanka) | :white_check_mark: |  :hourglass_flowing_sand: |
-| Commercial use | :x: |  :hourglass_flowing_sand: |
-| Foreign / proxy access | :x: |  :hourglass_flowing_sand: |
-| Patent claims on materials | :x: |  :hourglass_flowing_sand: |
-| Warranty (provided "AS IS") | :x: |  :hourglass_flowing_sand: |
-| Same license required (SSRL v1.0) | :white_check_mark: |  :hourglass_flowing_sand: |
-| Public trust assignment of improvements | :white_check_mark: |  :hourglass_flowing_sand: |
-| Ethical guardrails enforced | :white_check_mark: |  :hourglass_flowing_sand: |
-| Governed by Sri Lankan law | :white_check_mark: |  :hourglass_flowing_sand: |
+| Non-commercial research use | ✅ |  ⏳ |
+| Modification & Derivative Works | ✅ |  ⏳ |
+| Distribution to Eligible Licensees | ✅ |  ⏳ |
+| Private use (within Sri Lanka) | ✅ |  ⏳ |
+| Commercial use | ❌ |  ⏳ |
+| Foreign / proxy access | ❌ |  ⏳ |
+| Patent claims on materials | ❌ |  ⏳ |
+| Warranty (provided "AS IS") | ❌ |  ⏳ |
+| Same license required (SSRL v1.0) | ✅ |  ⏳ |
+| Public trust assignment of improvements | ✅ |  ⏳ |
+| Ethical guardrails enforced | ✅ |  ⏳ |
+| Governed by Sri Lankan law | ✅ |  ⏳ |
 
-> :white_check_mark: = permitted/required :x: = prohibited/not provided - The legally binding text is in [SSRL.md](SSRL.md).
+> ✅ = permitted/required ❌ = prohibited/not provided - The legally binding text is in [SSRL.md](SSRL.md).
 
 ## License Your Work Under SSRL
 
