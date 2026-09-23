@@ -37,40 +37,53 @@ The following is a brief, non-binding overview - the legally binding text is in 
 - **Breach = Automatic Termination** - Any commercialization, foreign access facilitation, or privatization of improvements immediately revokes all rights and triggers a duty to purge all copies.
 - **Governing Law** - The license is governed by the laws of the Democratic Socialist Republic of Sri Lanka, with exclusive jurisdiction in the courts of Colombo.
 
-## Using the SSRL Symbol & Banner
+## License Your Work Under SSRL
 
-If your work is published under the **SSRL v1.0**, you are encouraged to display the official SSRL symbol and banner to show that the work is licensed under this sovereign framework.
+Want to publish your dataset, model, benchmark, or software under the SSRL? Just check the boxes, follow 3 steps, and you are done.
 
+### Step 0 - Confirm You Are Eligible
+
+Tick every box. If all apply, you may use the SSRL:
+
+- [ ] I am a **citizen of Sri Lanka**, or an academic / educational / non-profit research institution incorporated and physically located in Sri Lanka
+- [ ] My work is **100% non-commercial** - public welfare research or education only
+- [ ] I agree that improvements are held in **public trust** (no private monopolization, no patents on the materials)
+- [ ] I will **not grant access to foreign parties** or act as a proxy for anyone outside Sri Lanka
+- [ ] I will respect the **ethical guardrails** (no harm to the Sinhala language, culture, or people)
+
+> If you ticked all five - you are good to go. If not, the SSRL does not apply to your use case.
+
+### Step 1 - Copy the License
+
+Copy [SSRL.md](SSRL.md) into your repository as `LICENSE.md` (or keep the name `SSRL.md`). That is the full legal text - no edits needed.
+
+### Step 2 - Add the License Notice
+
+Paste this notice into your README (and the header of your paper, dataset card, or model card):
+
+```markdown
+This work is licensed under the SynhalaAI Sovereign Research License v1.0 (SSRL-1.0).
+Full license text: https://github.com/SynhalaAI/License/blob/main/SSRL.md
+```
+
+### Step 3 - Display the Symbol or Banner
+
+Show the official mark so others can instantly recognize your work is SSRL-licensed:
+
+| Asset | File | Use it for |
+|-------|------|------------|
+| SSRL Symbol | [assets/SSRL.png](assets/SSRL.png) | Badges, repo headers, model/dataset cards |
+| SSRL Banner | [assets/SSRL Banner.jpg](assets/SSRL%20Banner.jpg) | README covers, websites, slides, publications |
+
+```markdown
 <p align="center">
-  <img src="assets/SSRL%20Banner.jpg" alt="SSRL Banner" width="70%">
+  <img src="assets/SSRL.png" alt="SSRL Symbol" width="120">
 </p>
+```
 
-**Available assets:**
+**Rules for the mark:** use it only for genuinely SSRL-licensed work, do not alter its colors or proportions, and link back to this repository wherever you display it online.
 
-| Asset | File | Recommended Use |
-|-------|------|-----------------|
-| SSRL Symbol | [assets/SSRL.png](assets/SSRL.png) | Badges, icons, repository headers, profile marks |
-| SSRL Banner | [assets/SSRL Banner.jpg](assets/SSRL%20Banner.jpg) | README covers, websites, documentation headers, presentations |
-
-**How to use them:**
-
-- **GitHub / Markdown** - embed the symbol or banner at the top of your README or documentation:
-  ```markdown
-  <p align="center">
-    <img src="assets/SSRL.png" alt="SSRL Symbol" width="120">
-  </p>
-  ```
-- **Websites** - place the banner in your site header, footer, or a dedicated "License" section with a link back to this repository.
-- **Publications & Papers** - include the symbol on the title page or in the acknowledgements/licensing section of your paper.
-- **Presentations & Slides** - display the banner on the title or closing slide of talks about your SSRL-licensed work.
-
-**Usage guidelines:**
-
-- Always pair the symbol/banner with a reference to the license, e.g.:
-  > *This work is licensed under the SynhalaAI Sovereign Research License v1.0 (SSRL-1.0).*
-- Link back to this repository (`https://github.com/SynhalaAI/License`) wherever the assets are displayed online.
-- Do not alter the colors, proportions, or contents of the symbol or banner.
-- The symbol and banner identify SSRL-licensed work - they do not grant any rights beyond those in [SSRL.md](SSRL.md), and may only be used with materials genuinely licensed under the SSRL.
+That is it - copy the license, paste the notice, display the mark. Your work is now protected under Sri Lanka's sovereign public trust framework.
 
 ## Repository Contents
 
