@@ -25,17 +25,26 @@ The full license text is available here: **[SSRL.md](SSRL.md)**
 
 > More SynhalaAI licenses and policy documents are **coming soon**.
 
-## License Summary
+## License Comparison
 
-A quick, non-binding overview of the SSRL v1.0 - the legally binding text is in [SSRL.md](SSRL.md).
+Compare the licenses published in this hub. Features are listed vertically - each license is a column. More SynhalaAI licenses are **coming soon** and will be added here as they are published.
 
-| :white_check_mark: Permissions | :x: Limitations | :information_source: Conditions |
-|--------------------------------|----------------|-----------------|
-| **Research use**<br>The licensed materials may be accessed, executed, reproduced, and studied for public welfare research. | **Commercial use**<br>Commercial use is strictly prohibited - for everyone, including the Licensor. No paid exceptions exist. | **License and copyright notice**<br>A copy of the SSRL and the license notice must be included with the licensed material. |
-| **Modification**<br>The licensed materials may be modified and used to build Derivative Works. | **Foreign use**<br>Rights are exclusive to Sri Lankan citizens and domestic non-profit research institutions. Foreign or proxy access is prohibited. | **Same license**<br>Any shared Derivative Work must carry the identical SSRL v1.0. |
-| **Distribution**<br>The licensed materials and Derivative Works may be shared with other Eligible Licensees. | **Patent claims**<br>Patents and restrictive IP claims on the materials or their improvements are prohibited. | **Public trust assignment**<br>Improvements are assigned to the Licensor to be held in perpetual public trust - no private monopolization. |
-| **Private use**<br>The licensed materials may be used and modified privately, non-commercially, within Sri Lanka. | **Liability**<br>This license includes a limitation of liability (Section 8). | **Ethical guardrails**<br>No use that denigrates the Sinhala language or Sri Lankan heritage, promotes hatred, or violates Sri Lankan law. |
-| | **Warranty**<br>The materials are provided "AS IS", without any warranty (Section 7). | **Governing law**<br>Governed by the laws of Sri Lanka, with exclusive jurisdiction in the courts of Colombo. |
+| Feature | **SSRL v1.0** :shield: | *Coming Soon* |
+|---------|:---------------------:|:------------:|
+| Non-commercial research use | :white_check_mark: |  :hourglass_flowing_sand: |
+| Modification & Derivative Works | :white_check_mark: |  :hourglass_flowing_sand: |
+| Distribution to Eligible Licensees | :white_check_mark: |  :hourglass_flowing_sand: |
+| Private use (within Sri Lanka) | :white_check_mark: |  :hourglass_flowing_sand: |
+| Commercial use | :x: |  :hourglass_flowing_sand: |
+| Foreign / proxy access | :x: |  :hourglass_flowing_sand: |
+| Patent claims on materials | :x: |  :hourglass_flowing_sand: |
+| Warranty (provided "AS IS") | :x: |  :hourglass_flowing_sand: |
+| Same license required (SSRL v1.0) | :white_check_mark: |  :hourglass_flowing_sand: |
+| Public trust assignment of improvements | :white_check_mark: |  :hourglass_flowing_sand: |
+| Ethical guardrails enforced | :white_check_mark: |  :hourglass_flowing_sand: |
+| Governed by Sri Lankan law | :white_check_mark: |  :hourglass_flowing_sand: |
+
+> :white_check_mark: = permitted/required :x: = prohibited/not provided - The legally binding text is in [SSRL.md](SSRL.md).
 
 ## License Your Work Under SSRL
 
