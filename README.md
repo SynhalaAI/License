@@ -27,15 +27,15 @@ The full license text is available here: **[SSRL.md](SSRL.md)**
 
 ## License Summary
 
-The following is a brief, non-binding overview - the legally binding text is in [SSRL.md](SSRL.md).
+A quick, non-binding overview of the SSRL v1.0 - the legally binding text is in [SSRL.md](SSRL.md).
 
-- **Exclusive to Sri Lanka** - All rights under the SSRL are strictly limited to Eligible Sri Lankan Licensees: verified citizens of Sri Lanka, or academic, educational, and non-profit research institutions incorporated, registered, and physically situated within Sri Lanka. Foreign access and proxy use are prohibited.
-- **Public Welfare Research** - Eligible Licensees may access, execute, reproduce, study, and modify the Licensed Materials, and build Derivative Works, solely for non-commercial Public Welfare Research within Sri Lanka.
-- **Public Trust Ownership** - Derivative Works cannot be privately monopolized: by creating a Derivative Work you assign all rights in the improvements to the Licensor (SKY PRODUCTION / SynhalaAI) to be held in perpetual public trust, and any shared Derivative Work must carry the identical SSRL v1.0. Patents and restrictive IP claims on the materials or their improvements are prohibited.
-- **Zero Commercial Use** - Neither the Licensed Materials nor any Derivative Works or outputs may ever be used commercially, by any party, including the Licensor. No paid exceptions, tiers, or waivers exist.
-- **Ethical Guardrails** - The materials may never be used to denigrate the Sinhala language or Sri Lankan cultural heritage, promote hatred or violence, enable non-consensual deepfakes or illegal surveillance, or violate Sri Lankan law.
-- **Breach = Automatic Termination** - Any commercialization, foreign access facilitation, or privatization of improvements immediately revokes all rights and triggers a duty to purge all copies.
-- **Governing Law** - The license is governed by the laws of the Democratic Socialist Republic of Sri Lanka, with exclusive jurisdiction in the courts of Colombo.
+| :white_check_mark: Permissions | :x: Limitations | :information_source: Conditions |
+|--------------------------------|----------------|-----------------|
+| **Research use**<br>The licensed materials may be accessed, executed, reproduced, and studied for public welfare research. | **Commercial use**<br>Commercial use is strictly prohibited - for everyone, including the Licensor. No paid exceptions exist. | **License and copyright notice**<br>A copy of the SSRL and the license notice must be included with the licensed material. |
+| **Modification**<br>The licensed materials may be modified and used to build Derivative Works. | **Foreign use**<br>Rights are exclusive to Sri Lankan citizens and domestic non-profit research institutions. Foreign or proxy access is prohibited. | **Same license**<br>Any shared Derivative Work must carry the identical SSRL v1.0. |
+| **Distribution**<br>The licensed materials and Derivative Works may be shared with other Eligible Licensees. | **Patent claims**<br>Patents and restrictive IP claims on the materials or their improvements are prohibited. | **Public trust assignment**<br>Improvements are assigned to the Licensor to be held in perpetual public trust - no private monopolization. |
+| **Private use**<br>The licensed materials may be used and modified privately, non-commercially, within Sri Lanka. | **Liability**<br>This license includes a limitation of liability (Section 8). | **Ethical guardrails**<br>No use that denigrates the Sinhala language or Sri Lankan heritage, promotes hatred, or violates Sri Lankan law. |
+| | **Warranty**<br>The materials are provided "AS IS", without any warranty (Section 7). | **Governing law**<br>Governed by the laws of Sri Lanka, with exclusive jurisdiction in the courts of Colombo. |
 
 ## License Your Work Under SSRL
 
