@@ -39,19 +39,21 @@ The following is a brief, non-binding overview - the legally binding text is in 
 
 ## License Your Work Under SSRL
 
-Want to publish your dataset, model, benchmark, or software under the SSRL? Just check the boxes, follow 3 steps, and you are done.
+Want to publish your dataset, model, benchmark, or software under the SSRL? Just tick the table, follow 3 steps, and you are done.
 
 ### Step 0 - Confirm You Are Eligible
 
-Tick every box. If all apply, you may use the SSRL:
+Read each requirement - if you can honestly tick every row, you may use the SSRL:
 
-- [ ] I am a **citizen of Sri Lanka**, or an academic / educational / non-profit research institution incorporated and physically located in Sri Lanka
-- [ ] My work is **100% non-commercial** - public welfare research or education only
-- [ ] I agree that improvements are held in **public trust** (no private monopolization, no patents on the materials)
-- [ ] I will **not grant access to foreign parties** or act as a proxy for anyone outside Sri Lanka
-- [ ] I will respect the **ethical guardrails** (no harm to the Sinhala language, culture, or people)
+| # | Requirement | Eligible? |
+|---|-------------|:---------:|
+| 1 | I am a **citizen of Sri Lanka**, or an academic / educational / non-profit research institution incorporated and physically located in Sri Lanka | ✅ |
+| 2 | My work is **100% non-commercial** - public welfare research or education only | ✅ |
+| 3 | I agree that improvements are held in **public trust** (no private monopolization, no patents on the materials) | ✅ |
+| 4 | I will **not grant access to foreign parties** or act as a proxy for anyone outside Sri Lanka | ✅ |
+| 5 | I will respect the **ethical guardrails** (no harm to the Sinhala language, culture, or people) | ✅ |
 
-> If you ticked all five - you are good to go. If not, the SSRL does not apply to your use case.
+> All five ticks? You are good to go. If any row does not apply to you, the SSRL does not cover your use case.
 
 ### Step 1 - Copy the License
 
